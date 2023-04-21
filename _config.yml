@@ -31,7 +31,7 @@ baseurl: ""
 # Navigation menu
 navigation_links:
   - title: Posts
-    url: /
+    url: /posts
 
   - title: Resume
     url: /about
