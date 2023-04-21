@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: Shoshana Kabinoff 
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: Professional Page 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -20,7 +20,7 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: https://sgkabinoff.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -30,10 +30,10 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: Posts
     url: /
 
-  - title: About
+  - title: Resume
     url: /about
 
   - title: Search
@@ -50,7 +50,7 @@ footer_links:
     icon: fa fa-twitter-square
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/sgkabinoff
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
