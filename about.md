@@ -4,6 +4,12 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+# Education
+
+* Loyola University Maryland 
+
+# Job Experience
+
+* Loyola Notre Dame Library 
+* Art With a Heart (Intership)
+
